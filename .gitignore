@@ -1,0 +1,11 @@
+.bash_history
+.bash_logout
+.cache/
+.mysql_history
+.ssh/
+.sudo_as_admin_successful
+.vbox_version
+.viminfo
+.wget-hsts
+.composer
+.DS_Store
